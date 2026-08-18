@@ -28,7 +28,7 @@
 
 > 🏆 Extends **Risk Radar**, the trust-scoring agent from *Asli Meesho* — a platform I solo-built that reached the **Top 20 of 36,300+ registrants** at Meesho's ScriptedByHer 2.0 hackathon.
 
-**🔗 Repo + Demo:** _[your GitHub link]_
+**🔗 Repo + Demo:** _[(https://github.com/sreyadattagupta/asli_meesho)]_
 
 </div>
 
@@ -423,7 +423,7 @@ trustlayer/
 │   └── test_flow.py     # 🔒 locks the two canonical demo transactions
 ├── requirements.txt
 ├── README.md
-└── CLAUDE.md
+
 ```
 
 ---
@@ -452,7 +452,7 @@ UPI moves **billions** of transactions. The April 2026 mandate added a second lo
 
 ---
 
-**Built with ❤️ by [@satyamtripathi](#) for Paytm Build for India**
+**Built with ❤️ by [@sreyadattagupta](dsreya799@gmail.com) for Paytm Build for India**
 
 `#BuildForIndia` · `@Sarvam` · `@HackCulture`
 
